@@ -1,0 +1,32 @@
+.navbar-background {
+    display: flex;
+    width: 100vw;
+    height: 35vh;
+    background: #000000;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 20vh;
+}
+
+.nbc {
+    width: 12vw;
+    height: 5vh;
+    margin-left: 5vw;
+}
+
+.pft {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-right: 7vw;
+}
+
+.pftlive {
+    margin-right: 5vw;
+}

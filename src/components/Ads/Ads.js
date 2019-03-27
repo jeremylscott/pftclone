@@ -12,9 +12,6 @@ const Ads = () => {
             </div>
             <div className='gradient'/>
         </>
-
-
-        
     )
 }
 
