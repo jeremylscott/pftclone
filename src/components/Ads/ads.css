@@ -1,0 +1,19 @@
+.ad-background {
+    width: 100vw;
+    height: 18vh;
+    background: #353335;
+}
+
+.ad {
+    position: absolute;
+    top: 2vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.gradient {
+    width: 100vw;
+    height: 4vh;
+    background-image: linear-gradient(to right, #353336, #444346, #545356, #646467, #757678, #757678, #757678, #757678, #646467, #545356, #444346, #353336);
+}
