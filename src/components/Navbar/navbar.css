@@ -1,5 +1,6 @@
 .navbar-background {
     display: flex;
+    flex-direction: column;
     width: 100vw;
     height: 35vh;
     background: #000000;
@@ -30,3 +31,98 @@
 .pftlive {
     margin-right: 5vw;
 }
+
+.top {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 5vh;
+    margin-top: 8vh;
+}
+
+.top-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3em;
+    font-weight: 700;
+    line-height: 21px;
+}
+
+.tLink1, .tLink2, .tLink3, .tLink4, .tLink5, .tLink6, .tLink7, .tLink8, .tLink9 { 
+    color: white;
+    border-right: 1.5px dotted white;
+    padding: .8vw;
+    cursor: pointer;
+}
+
+.tLink1:hover, .tLink2:hover, .tLink3:hover, .tLink4:hover, .tLink5:hover, .tLink6:hover, .tLink7:hover, .tLink8:hover, .tLink9:hover, .tLink10:hover {
+    background: #921E1E;
+}
+
+.tLink1, .tLink3, .tLink4, .tLink5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 1.5vw;
+    padding-left: 1.5vw;
+}
+
+.tLink2, .tLink7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 1.5vw;
+    padding-left: 1.5vw;
+}
+
+.tLink6, .tLink8, .tLink9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 1.5vw;
+    padding-left: 1.5vw;
+}
+
+.tLink10 {
+    color: white;
+    padding: .8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 1.5vw;
+    padding-left: 1.5vw;
+    cursor: pointer;
+}
+
+.lower {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 5vh;
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+}
+
+.lower-links {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 700;
+    color: #CCCCCC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lLink1, .lLink2, .lLink3, .lLink4, .lLink5, .lLink6, .lLink7, .lLink8 {
+    padding-right: 1.5vw;
+    padding-left: 1.5vw;
+}
+
+.lLink1:hover, .lLink2:hover, .lLink3:hover, .lLink4:hover, .lLink5:hover, .lLink6:hover, .lLink7:hover, .lLink8:hover {
+    background: #921E1E;
+}
+
+
+
