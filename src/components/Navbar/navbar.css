@@ -36,8 +36,8 @@
     display: flex;
     justify-content: center;
     width: 100vw;
-    height: 5vh;
-    margin-top: 8vh;
+    height: 3vh;
+    margin-top: 6vh;
 }
 
 .top-links {
@@ -48,6 +48,7 @@
     font-size: 1.3em;
     font-weight: 700;
     line-height: 21px;
+    margin-top: -2vh;
 }
 
 .tLink1, .tLink2, .tLink3, .tLink4, .tLink5, .tLink6, .tLink7, .tLink8, .tLink9 { 
