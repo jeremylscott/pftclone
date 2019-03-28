@@ -43,6 +43,9 @@ import pftlive from '../../images/pftlive.png'
                             <li className='lLink6'>About</li>
                             <li className='lLink7'>PFT Gear</li>
                             <li className='lLink8'>Tickets</li>
+                            <i class="fas fa-search"></i>
+                            <li className='lLink9'>Search</li>
+
                         </div>
                     </div>
                 </div>
